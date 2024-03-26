@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Ting Pan. I am currently pursuing a Master's degree in Data Science, complemented by a rich foundation in Economics, Finance, and Law.
+I am Ting Pan, a Data Scientist with a strong background in Economics, Finance, and Law.
 
 ### 🔭 My Expertise
 - Database Management: SQL (Postgres, MySQL), NoSQL (MongoDB)

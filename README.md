@@ -18,3 +18,5 @@
 - LinkedIn: https://www.linkedin.com/in/link-ting-pan/
 - Gmail: ting.pan12@gmail.com
 
+### 👋 Fun fact: ### 
+I think I am a great Pickle Ball Player

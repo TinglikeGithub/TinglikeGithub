@@ -9,8 +9,9 @@
 - ML: Regression, Classification, Decision Trees, Random Forest, Gradient Bosting
 - DL: Neural Network, NLP, Transformers, Large Language Models (LLM)
 - Web Experimentation: Causal Analysis, A/B Testing, Hypothesis testing, Statistics, Quantitative Analysis, Experimental Design
-- Cloud/Big Data: Google Cloud Platform (BigQuery), AWS (EC2, S3), PySpark, Spark SQL
-- Workflow Management: Apache Airflow, Cloud Composer
+- Cloud/Big Data: Google Cloud Platform (BigQuery), AWS (EC2, S3), Apache Spark
+
+- Workflow Management: Airflow, Cloud Composer
 - Financial Skill: passed the CFA level I Exam
 
 
